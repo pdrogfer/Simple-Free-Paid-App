@@ -1,4 +1,4 @@
-# SimpleFree Paid App
+# Simple Free-Paid App
 
 Simple Android Studio project to create two versions of the same Android app (a typical free/paid case). 
 
