@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Simple Free Paid App</string>
-    <string name="version">Vanilla Version</string>
+    <string name="presentation">This app has two versions of the second Activity select which one you want to see</string>
+    <string name="chiste">- ¿Qué hace un mudo bailando? - Una mudanza</string>
 </resources>
